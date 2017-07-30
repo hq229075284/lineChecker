@@ -1,0 +1,9 @@
+{
+  "dir":"./",
+  "line":{
+    "warn":3,
+    "error":15
+  },
+  "validType":["js","json"],
+  "ignoreWarning":false
+}
